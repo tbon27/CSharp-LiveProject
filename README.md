@@ -15,6 +15,8 @@ This story required the following for acceptance:
 
 The following is my solution for my first user story:
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SNIP.png)
+
+The image below shows the button features, specifically the on hover effect.
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SS.png)
 
 ### User Story #2
@@ -44,3 +46,32 @@ Before:
 After:
 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story3/US3-SS1b.png)
+
+### User Story #4
+
+For my fourth user story I added photo storage and retrieval functionality to the TheatreMember model. This allows users to upload files from their own file system; then in the controller the uploaded image is converted into a byte array (byte[]) and stored in the database. The byte[] representing the photo is able to be retrieved from the database and converted back into an image where it can be displayed on View.
+
+First, I created a method in the TheatreMember Controller that takes in the uploaded photo and converts that photo into a byte[].
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-SNIP1a.png)
+
+Next, I added new file input fields to the Create and Edit Views, so the images could be uploaded to the Controller. 
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-SS-CREATE.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-SNIP4.png)
+
+Then I used the method in the Create and Edit Controller methods to convert the uploaded image to a byte[] and assign the byte[] to the database.
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-SNIP-CREATE.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-SNIP-EDIT.png)
+
+I also created two methods that enable us to retrieve the stored byte[] from the database using TheatreMemberID to return the file of the converted photo.
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods.png)
+
+Lastly, I used my method to display the photos of TheatreMember on all CRUD pages. The following are examples of the method applied to Create and Edit views.
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayCreate.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayEdit.png)
+
+
