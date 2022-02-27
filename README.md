@@ -39,7 +39,7 @@ The third user story was to style the Create and Edit pages, including a hover e
 
 Before:
 
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story3/US3-SS2.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story3/US3-SS2a.png)
 
 After:
 
