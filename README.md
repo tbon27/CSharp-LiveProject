@@ -4,7 +4,7 @@
 This is where the intro goes.
 
 ## Quick Navigation
-User Story #1[US#1](https://github.com/tbon27/CSharp-LiveProject#user-story-1)
+[User Story #1:] Create and Style Register and Log in buttons(https://github.com/tbon27/CSharp-LiveProject#user-story-1)
 ## Overview
 
 ### User Story #1
