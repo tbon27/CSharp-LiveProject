@@ -14,5 +14,5 @@ This story required the following for acceptance:
 - Buttons will maintain the color scheme and theme of the project.
 The following is my solution for my first user story:
 
-![This is an image](/images/US1-SS.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SS.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SNIP.png)
