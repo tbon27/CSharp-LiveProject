@@ -3,6 +3,8 @@
 ## Introduction
 This is where the intro goes.
 
+## Quick Navigation
+User Story #1[US#1](https://github.com/tbon27/CSharp-LiveProject#user-story-1)
 ## Overview
 
 ### User Story #1
