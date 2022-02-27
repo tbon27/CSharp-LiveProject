@@ -15,6 +15,8 @@ This story required the following for acceptance:
 
 The following is my solution for my first user story:
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SNIP.png)
+
+The image below shows the button features, specifically the on hover effect.
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SS.png)
 
 ### User Story #2
