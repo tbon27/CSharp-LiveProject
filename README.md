@@ -4,12 +4,16 @@
 This is where the intro goes.
 
 ## Quick Navigation
-[User Story #1: Create and Style Register and Log in buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-1)
+- [User Story #1: Create and Style Register and Log in buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-1)
+- [User Story #2: Create an Entity Model for TheatreMember class to use with Database](https://github.com/tbon27/CSharp-LiveProject#user-story-2)
+- [User Story #3: Style the Create and Edit Buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-3)
+- [User Story #4: Add Photo Storage and Retrieval functionality to CRUD pages](https://github.com/tbon27/CSharp-LiveProject#user-story-4)
+- [User Story #5: Style the Index View with Bootstrap Cards](https://github.com/tbon27/CSharp-LiveProject#user-story-5)
 ## Overview
 
 ### User Story #1
 
-My first user story of the Live Project was to redesign the "Register" and "Log in" buttons to function more like actual buttons. 
+My first user story of the Live Project was to redesign the Register and Log in buttons to function more like actual buttons. 
 This story required the following for acceptance: 
 - When the cursor hovers over a button, there should be no link underline applied to the text. 
 - The entirety of the button should be clickable and direct user to respective page. 
