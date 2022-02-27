@@ -67,11 +67,18 @@ Then I used the method in the Create and Edit Controller methods to convert the 
 
 I also created two methods that enable us to retrieve the stored byte[] from the database using TheatreMemberID to return the file of the converted photo.
 
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods2.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods.png)
 
 Lastly, I used my method to display the photos of TheatreMember on all CRUD pages. The following are examples of the method applied to Create and Edit views.
 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayCreate.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayEdit.png)
 
+### User Story #5
 
+For my last user story of the two-week Live Project, I added Bootstrap cards to the Index View to display the Theatre Members sorted by the Production they are acting in, along with other styling upgrades to the Index including: styling the create button, creating an on-hover overlay effect on each card utilizing Font Awesome to create the edit and delete buttons that appear on the effect, and that each card is clickable and directs the user to the Theatre Member's Details page.
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP1.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP2.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP3.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SS.png)
