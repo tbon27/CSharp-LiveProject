@@ -22,8 +22,8 @@ The following is my solution for my first user story:
 My second user story required the creation of an entity model for the TheatreMember class, so that cast and other production members could be saved to the database.
 
 First, I created the TheatreMember class model, and added an enum Position for the MainRole property.
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US1-SNIP.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US2-SNIP.png)
 Next, I created the controller and scaffolded the CRUD pages for TheatreMember.
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US2-SNIP2.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US2-SNIP2.png)
 Lastly, I updated the database to store cast and production members. The image below shows a populated database with cast and production members. Note: Some of the data in this image is provided from later stories in the Live Project.
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story1/US2-SNIP3.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US2-SNIP3.png)
