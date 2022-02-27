@@ -43,4 +43,4 @@ Before:
 
 After:
 
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story3/US2-SS1a.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story3/US3-SS1a.png)
