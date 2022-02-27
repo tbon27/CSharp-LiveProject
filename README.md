@@ -32,3 +32,15 @@ Next, I created the controller and scaffolded the CRUD pages for TheatreMember.
 Lastly, I updated the database to store cast and production members. The image below shows a populated database with cast and production members. Note: Some of the data in this image is provided from later stories in the Live Project.
 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US2-SNIP3a.png)
+
+### User Story #3
+
+The third user story was to style the Create and Edit pages, including a hover effect and on click effects for input boxes. The images below are a comparison of the Edit page before and after. Acceptance criteria included: a single line header, buttons styled and unique between eachother, include placeholders for all input fields, and keep project styling consistent for all features.
+
+Before:
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US3-SNIP2.png)
+
+After:
+
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story2/US2-SNIP1a.png)
