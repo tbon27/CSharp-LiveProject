@@ -81,4 +81,4 @@ For my last user story of the two-week Live Project, I added Bootstrap cards to 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP1a.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP2a.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP3a.png)
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SS.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SSb.png)
