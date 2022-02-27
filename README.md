@@ -78,7 +78,13 @@ Lastly, I used my method to display the photos of TheatreMember on all CRUD page
 
 For my last user story of the two-week Live Project, I added Bootstrap cards to the Index View to display the Theatre Members sorted by the Production they are acting in, along with other styling upgrades to the Index including: styling the create button, creating an on-hover overlay effect on each card utilizing Font Awesome to create the edit and delete buttons that appear on the effect, and that each card is clickable and directs the user to the Theatre Member's Details page.
 
+The following applies Bootstrap cards and displays the Theater Member image and name sorted by Production to the Index View. Create, Edit, and Delete buttons are placed and styled, while Edit and Delete buttons use CSS to appear on hover. The card is also clickable and directs the user to the Theare Memebers Details page. 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP1a.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP2a.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SNIP3a.png)
+
+The final result of the Index page.
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SSb.png)
+
+This image shows the Edit and Delete buttons appearing on hover with respective styles, and image darkens slightly on hover.
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SSc.png)
