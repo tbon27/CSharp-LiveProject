@@ -67,7 +67,7 @@ Then I used the method in the Create and Edit Controller methods to convert the 
 
 I also created two methods that enable us to retrieve the stored byte[] from the database using TheatreMemberID to return the file of the converted photo.
 
-![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods2.png)
+![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods.png)
 
 Lastly, I used my method to display the photos of TheatreMember on all CRUD pages. The following are examples of the method applied to Create and Edit views.
 
