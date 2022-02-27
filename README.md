@@ -67,7 +67,7 @@ I also created two methods that enable us to retrieve the stored byte[] from the
 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-othermethods.png)
 
-Lastly, I used my method to display the photos of TheatreMember on all CRUD pages.
+Lastly, I used my method to display the photos of TheatreMember on all CRUD pages. The following are examples of the method applied to Create and Edit views.
 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayCreate.png)
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story4/US4-DisplayEdit.png)
