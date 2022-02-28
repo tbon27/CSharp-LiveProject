@@ -9,7 +9,7 @@ To cap off my studies with The Tech Academy, I spent the last two weeks of my st
 - [User Story #3: Style the Create and Edit Buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-3)
 - [User Story #4: Add Photo Storage and Retrieval functionality to CRUD pages](https://github.com/tbon27/CSharp-LiveProject#user-story-4)
 - [User Story #5: Style the Index View with Bootstrap Cards](https://github.com/tbon27/CSharp-LiveProject#user-story-5)
-- [Sprint Retrospective](https://github.com/tbon27/CSharp-LiveProject#retrospective)
+- [Retrospective](https://github.com/tbon27/CSharp-LiveProject#retrospective)
 ## Overview
 
 ### User Story #1
