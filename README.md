@@ -9,7 +9,7 @@ To cap off my studies with The Tech Academy, I spent the last two weeks of my st
 - [User Story #3: Style the Create and Edit Buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-3)
 - [User Story #4: Add Photo Storage and Retrieval functionality to CRUD pages](https://github.com/tbon27/CSharp-LiveProject#user-story-4)
 - [User Story #5: Style the Index View with Bootstrap Cards](https://github.com/tbon27/CSharp-LiveProject#user-story-5)
-- [Sprint Retrospective](https://github.com/tbon27/CSharp-LiveProject#sprint-retrospective)
+- [Sprint Retrospective](https://github.com/tbon27/CSharp-LiveProject#retrospective)
 ## Overview
 
 ### User Story #1
@@ -96,7 +96,7 @@ The final result of the Index page.
 This image shows the Edit and Delete buttons appearing on hover with respective styles, and image darkens slightly on hover.
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SSc.png)
 
-### Sprint Retrospective
+### Retrospective
 
 This two-week sprint has provided working experience on an MVC web application with a team. Many of the skills learned are translatable to my future projects and collaborations.
 
