@@ -1,7 +1,7 @@
 # C Sharp - Live Project
 
 ## Introduction
-This is where the intro goes.
+To cap off my studies with The Tech Academy, I spent the last two weeks of my studies in a live Internship which entailed working on an MVC web application in C# for a theatre company in Portland. The website was divided into sections that the theatre disired being: rentals, production, and a blog section. During this project I worked on a team with fellow students to create functionalities and overall improvements to the production section of the site. Our team comminucated through Discord, and used Azure DevOps for project management. Throughout the course of the project I experienced work in the front end and the back end to complete my user stories and continue the progress of developing our application. This two-week Internship provided an opportunity to get a closer look at project planning and development, and how to collaborate with a team regardless of the technology being used in a given project.
 
 ## Quick Navigation
 - [User Story #1: Create and Style Register and Log in buttons](https://github.com/tbon27/CSharp-LiveProject#user-story-1)
@@ -97,3 +97,10 @@ This image shows the Edit and Delete buttons appearing on hover with respective 
 ![This is an image](https://github.com/tbon27/CSharp-LiveProject/blob/main/images/story5/US5-SSc.png)
 
 ### Sprint Retrospective
+
+This two-week sprint has provided working experience on an MVC web application with a team. Many of the skills learned are translatable to my future projects and collaborations.
+
+Other notable takeaways from this project: 
+- Proper Version Control practices
+- Experience with Azure DevOps
+- Experience utilizing AGILE/SCRUM methodologies and frameworks
